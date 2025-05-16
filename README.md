@@ -1,17 +1,10 @@
-## Hi there 👋
-
  👋 Merhaba, ben Mücahit Demir
 
 Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**, **Vue.js** gibi teknolojilerle fullstack web uygulamaları geliştirme konusunda kendimi geliştiriyorum. Yazılım geliştirmeye meraklı, öğrenmeye açık ve üretken biriyim.
 
-GitHub üzerinde paylaştığım projelerle hem bireysel hem ekip çalışmalarına uygun şekilde kendimi geliştiriyorum.
-
----
-
 ## 🚀 Projelerim
 
 ### 🔧 Fullstack Uygulamalar
-
 
 - **[Anket Uygulaması](https://github.com/mucahtx789/ankett)**  
   Vue.js ile yapılmış basit bir anket yönetim arayüzü.
@@ -42,13 +35,11 @@ GitHub üzerinde paylaştığım projelerle hem bireysel hem ekip çalışmalar�
 - ASP.NET Core / MVC
 - Entity Framework Core
 - C#
--Java
+- Java
 - SQL Server
 - Vue.js
 - HTML / CSS / JS
 - Git & GitHub
-
----
 
 ## 📫 Bana Ulaşın
 
@@ -56,9 +47,5 @@ GitHub üzerinde paylaştığım projelerle hem bireysel hem ekip çalışmalar�
 - [GitHub](https://github.com/mucahtx789)
 - [Mail] (mucahtx789@gmail.com)
 
----
-
 🎯 Yazılım alanında çalışmaya, projelerde yer almaya ve ekiplere katkı sağlamaya hazırım. Profilimi ziyaret ettiğiniz için teşekkür ederim!
-
-
 
