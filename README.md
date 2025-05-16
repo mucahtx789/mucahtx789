@@ -12,8 +12,8 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 - **[Randevu Sistemi](https://github.com/mucahtx789/Randevu)**  
   Kullanıcılar için randevu almayı ve yönetmeyi sağlayan uygulama.
 
-- ** [Sellpoint](https://github.com/mucahtx789/Randevu](https://github.com/mucahtx789/SellPoint)
---- Alış veriş sitesi sepet, satın alma işlemleri
+- **[SellPoint](https://github.com/mucahtx789/SellPoint)**  
+  Alışveriş sitesi: sepet, satın alma işlemleri.
 
 ### 🛠️ Backend ve Giriş Sistemleri
 - **[Cookie Authentication - .NET 6](https://github.com/mucahtx789/ASPNET-MVC-NET6--Cookie-Auth-2)**  
@@ -26,10 +26,12 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
   Kullanıcı, gönderi, yorum ve beğeni özelliklerine sahip bir sosyal medya platformu.
 
 ### 🛠️ Java
--**[xo_oyunu](https://github.com/mucahtx789/xo_oyunu)
-   XO oyunu
--**[Angry Birds]([https://github.com/mucahtx789/xo_oyunu](https://github.com/mucahtx789/angry_birds)
-   Angry Birds oyunun basit hali
+- **[xo_oyunu](https://github.com/mucahtx789/xo_oyunu)**  
+  XO oyunu
+
+- **[Angry Birds](https://github.com/mucahtx789/angry_birds)**  
+  Angry Birds oyununun basit versiyonu
+
 
 ## 🧰 Kullandığım Teknolojiler
 - ASP.NET Core / MVC
@@ -45,7 +47,8 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 
 - [LinkedIn Profilim](https://www.linkedin.com/in/mücahit-demir-a68508202/)
 - [GitHub](https://github.com/mucahtx789)
-- [Mail] (mucahtx789@gmail.com)
+- 📧 E-posta: [mucahtx789@gmail.com](mailto:mucahtx789@gmail.com)
+
 
 🎯 Yazılım alanında çalışmaya, projelerde yer almaya ve ekiplere katkı sağlamaya hazırım. Profilimi ziyaret ettiğiniz için teşekkür ederim!
 
