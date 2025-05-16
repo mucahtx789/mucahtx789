@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 👋 Merhaba, ben Mücahit Demir
+ 👋 Merhaba, ben Mücahit Demir
 
 Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**, **Vue.js** gibi teknolojilerle fullstack web uygulamaları geliştirme konusunda kendimi geliştiriyorum. Yazılım geliştirmeye meraklı, öğrenmeye açık ve üretken biriyim.
 
@@ -61,4 +61,4 @@ GitHub üzerinde paylaştığım projelerle hem bireysel hem ekip çalışmalar�
 🎯 Yazılım alanında çalışmaya, projelerde yer almaya ve ekiplere katkı sağlamaya hazırım. Profilimi ziyaret ettiğiniz için teşekkür ederim!
 
 
--->
+
