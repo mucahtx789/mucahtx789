@@ -25,7 +25,7 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 - **[Sosyal Medya](https://github.com/mucahtx789/sosyalMedya)**  
   Kullanıcı, gönderi, yorum ve beğeni özelliklerine sahip bir sosyal medya platformu.
   
-  - **[Görev Takip](https://github.com/mucahtx789/TaskTracker)**  
+- **[Görev Takip](https://github.com/mucahtx789/TaskTracker)**  
   Kullanıcı görev oluşturma ve takip uygulaması
 ### 🛠️ Java
 - **[xo_oyunu](https://github.com/mucahtx789/xo_oyunu)**  
