@@ -14,6 +14,10 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 
 - **[SellPoint](https://github.com/mucahtx789/SellPoint)**  
   Alışveriş sitesi: sepet, satın alma işlemleri.
+  
+### Web Sitesi
+- **[Biography](https://github.com/mucahtx789/Biography)
+HTML, CSS, Javascript, Bootstrap, JQuery, React
 
 ### 🛠️ Backend ve Giriş Sistemleri
 - **[Cookie Authentication - .NET 6](https://github.com/mucahtx789/ASPNET-MVC-NET6--Cookie-Auth-2)**  
