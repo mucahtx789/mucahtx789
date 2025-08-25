@@ -16,7 +16,7 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
   Alışveriş sitesi: sepet, satın alma işlemleri.
   
 ### Web Sitesi
-- **[Biography](https://github.com/mucahtx789/Biography)
+- **[Biography](https://github.com/mucahtx789/Biography)**
 HTML, CSS, Javascript, Bootstrap, JQuery, React
 
 ### 🛠️ Backend ve Giriş Sistemleri
