@@ -39,8 +39,8 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
   Resim düzenleme özelliklerine sahip masaüstü uygulaması.
 
 ### 🐍 Python
-- **[Picture-Upscalle](https://github.com/mucahtx789/Picture-Upscalle)**
-  Resim boyut projesi
+- **[Picture-Upscalle](https://github.com/mucahtx789/Picture-Upscalle)**  
+  Resim boyut ayarlama projesi.
 
 - **[DCTImageCompression](https://github.com/mucahtx789/DCTImageCompression)**  
   DCT tabanlı JPEG sıkıştırma ve IDCT simülasyonu; görüntü işleme örneği.
