@@ -1,60 +1,86 @@
- 👋 Merhaba, ben Mücahit Demir
+👋 Merhaba, ben Mücahit Demir
 
-Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**, **Vue.js** gibi teknolojilerle fullstack web uygulamaları geliştirme konusunda kendimi geliştiriyorum. Yazılım geliştirmeye meraklı, öğrenmeye açık ve üretken biriyim.
+Ben bir yazılım geliştirici adayıyım ve özellikle ASP.NET Core, C#, Vue.js gibi teknolojilerle fullstack web uygulamaları geliştirme konusunda kendimi geliştiriyorum. Yazılım geliştirmeye meraklı, öğrenmeye açık ve üretken biriyim.
 
-## 🚀 Projelerim
+🚀 Projelerim
+🔧 Fullstack Uygulamalar
 
-### 🔧 Fullstack Uygulamalar
+Anket Uygulaması
 
-- **[Anket Uygulaması](https://github.com/mucahtx789/ankett)**  
-  Vue.js ile yapılmış basit bir anket yönetim arayüzü.
+Vue.js ile yapılmış basit bir anket yönetim arayüzü.
 
-- **[Randevu Sistemi](https://github.com/mucahtx789/Randevu)**  
-  Kullanıcılar için randevu almayı ve yönetmeyi sağlayan uygulama.
+Randevu Sistemi
 
-- **[SellPoint](https://github.com/mucahtx789/SellPoint)**  
-  Alışveriş sitesi: sepet, satın alma işlemleri.
-  
-### Web Sitesi
-- **[Biography](https://github.com/mucahtx789/Biography)**
+Kullanıcılar için randevu almayı ve yönetmeyi sağlayan uygulama.
+
+SellPoint
+
+Alışveriş sitesi: sepet, satın alma işlemleri.
+
+🌐 Web Sitesi
+
+Biography
+
 HTML, CSS, Javascript, Bootstrap, JQuery, React
 
-### 🛠️ Backend ve Giriş Sistemleri
-- **[Cookie Authentication - .NET 6](https://github.com/mucahtx789/ASPNET-MVC-NET6--Cookie-Auth-2)**  
-  ASP.NET MVC üzerinde cookie tabanlı oturum yönetimi örneği.
-  
-- **[Emlak](https://github.com/mucahtx789/Emlak)**  
-  ASP.NET Core ve Entity Framework ile geliştirilen emlak ilan yönetim sistemi.
-  
-- **[Sosyal Medya](https://github.com/mucahtx789/sosyalMedya)**  
-  Kullanıcı, gönderi, yorum ve beğeni özelliklerine sahip bir sosyal medya platformu.
-  
-- **[Görev Takip](https://github.com/mucahtx789/TaskTracker)**  
-  Kullanıcı görev oluşturma ve takip uygulaması
-### 🛠️ Java
-- **[xo_oyunu](https://github.com/mucahtx789/xo_oyunu)**  
-  XO oyunu
+🛠️ Backend ve Giriş Sistemleri
 
-- **[Angry Birds](https://github.com/mucahtx789/angry_birds)**  
-  Angry Birds oyununun basit versiyonu
+Cookie Authentication - .NET 6
 
+ASP.NET MVC üzerinde cookie tabanlı oturum yönetimi örneği.
 
-## 🧰 Kullandığım Teknolojiler
-- ASP.NET Core / MVC
-- Entity Framework Core
-- C#
-- Java
-- SQL Server
-- Vue.js
-- HTML / CSS / JS
-- Git & GitHub
+Emlak
 
-## 📫 Bana Ulaşın
+ASP.NET Core ve Entity Framework ile geliştirilen emlak ilan yönetim sistemi.
 
-- [LinkedIn Profilim](https://www.linkedin.com/in/mücahit-demir-a68508202/)
-- [GitHub](https://github.com/mucahtx789)
-- 📧 E-posta: [mucahtx789@gmail.com](mailto:mucahtx789@gmail.com)
+Sosyal Medya
 
+Kullanıcı, gönderi, yorum ve beğeni özelliklerine sahip bir sosyal medya platformu.
+
+Görev Takip
+
+Kullanıcı görev oluşturma ve takip uygulaması.
+
+🖼️ Masaüstü Uygulamalar
+
+ImageEditorApp
+
+Resim düzenleme özelliklerine sahip masaüstü uygulaması.
+
+☕ Java
+
+xo_oyunu
+
+XO oyunu.
+
+Angry Birds
+
+Angry Birds oyununun basit versiyonu.
+
+🧰 Kullandığım Teknolojiler
+
+ASP.NET Core / MVC
+
+Entity Framework Core
+
+C#
+
+Java
+
+SQL Server
+
+Vue.js
+
+HTML / CSS / JS
+
+Git & GitHub
+
+📫 Bana Ulaşın
+
+LinkedIn Profilim
+
+GitHub
+
+📧 E-posta: mucahtx789@gmail.com
 
 🎯 Yazılım alanında çalışmaya, projelerde yer almaya ve ekiplere katkı sağlamaya hazırım. Profilimi ziyaret ettiğiniz için teşekkür ederim!
-
