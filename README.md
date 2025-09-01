@@ -38,6 +38,13 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 - **[ImageEditorApp](https://github.com/mucahtx789/ImageEditorApp)**  
   Resim düzenleme özelliklerine sahip masaüstü uygulaması.
 
+### 🐍 Python
+- **[Picture-Upscalle](https://github.com/mucahtx789/Picture-Upscalle)**  
+  Görselleri yapay zeka veya algoritmalar ile upscale etme uygulaması.
+
+- **[DCTImageCompression](https://github.com/mucahtx789/DCTImageCompression)**  
+  DCT tabanlı JPEG sıkıştırma ve IDCT simülasyonu; görüntü işleme örneği.
+
 ### ☕ Java
 - **[xo_oyunu](https://github.com/mucahtx789/xo_oyunu)**  
   XO oyunu.
@@ -52,6 +59,7 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 - Java
 - SQL Server
 - Vue.js
+- Python
 - HTML / CSS / JS
 - Git & GitHub
 
