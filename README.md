@@ -18,6 +18,9 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 - **[Biography](https://github.com/mucahtx789/Biography)**  
   HTML, CSS, Javascript, Bootstrap, JQuery, React
 
+- **🔨 [Movie1](https://github.com/mucahtx789/Movie1) (yapım aşamasında)**  
+  Film sitesi
+
 ### 🛠️ Backend ve Giriş Sistemleri
 - **[Cookie Authentication - .NET 6](https://github.com/mucahtx789/ASPNET-MVC-NET6--Cookie-Auth-2)**  
   ASP.NET MVC üzerinde cookie tabanlı oturum yönetimi örneği.
