@@ -40,7 +40,6 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 
 ### 🐍 Python
 - **[Picture-Upscalle](https://github.com/mucahtx789/Picture-Upscalle)**  
-  Görselleri yapay zeka veya algoritmalar ile upscale etme uygulaması.
 
 - **[DCTImageCompression](https://github.com/mucahtx789/DCTImageCompression)**  
   DCT tabanlı JPEG sıkıştırma ve IDCT simülasyonu; görüntü işleme örneği.
