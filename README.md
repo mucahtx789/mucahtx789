@@ -3,7 +3,7 @@
 Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**, **Vue.js** gibi teknolojilerle fullstack web uygulamaları geliştirme konusunda kendimi geliştiriyorum. Yazılım geliştirmeye meraklı, öğrenmeye açık ve üretken biriyim.
 
 ## 🚀 Projelerim
-www.silentwingstr.com
+
 - **[silentwingstr](https:www.silentwingstr.com)**  
 
 ### 🔧 Fullstack Uygulamalar
