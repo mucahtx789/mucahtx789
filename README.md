@@ -4,7 +4,7 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 
 ## 🚀 Projelerim
 
--- **<a href="https://www.silentwingstr.com" target="_blank">silentwingstr</a>**
+- **[silentwingstr](https://www.silentwingstr.com)** 
 
 ### 🔧 Fullstack Uygulamalar
 - **[Anket Uygulaması](https://github.com/mucahtx789/ankett)**  
