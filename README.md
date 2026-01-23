@@ -1,73 +1,54 @@
 # 👋 Merhaba, ben Mücahit Demir
 
-Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**, **Vue.js** gibi teknolojilerle fullstack web uygulamaları geliştirme konusunda kendimi geliştiriyorum. Yazılım geliştirmeye meraklı, öğrenmeye açık ve üretken biriyim.
+Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**, **Vue.js** ve **Flutter** gibi teknolojilerle fullstack çözümler üretme konusunda kendimi geliştiriyorum. Yazılım dünyasında sürekli öğrenen ve üreten biriyim.
 
-## 🚀 Projelerim
+## 🚀 Öne Çıkan Projelerim
 
-- **[silentwingstr](https://www.silentwingstr.com)** 
+- **[silentwingstr](https://www.silentwingstr.com)** - Canlıda olan web projem.
+
+### 📱 Mobil Uygulamalar
+- **[mobil_resim_app](https://github.com/mucahtx789/mobil_resim_app)**   
+  Flutter kullanılarak geliştirilmiş, Android platformu için tasarlanmış resim odaklı mobil uygulama.
 
 ### 🔧 Fullstack Uygulamalar
-- **[Anket Uygulaması](https://github.com/mucahtx789/ankett)**  
-  Vue.js ile yapılmış basit bir anket yönetim arayüzü.
+- **[Anket Uygulaması](https://github.com/mucahtx789/ankett)** Vue.js ile yapılmış interaktif anket yönetim arayüzü.
 
-- **[Randevu Sistemi](https://github.com/mucahtx789/Randevu)**  
-  Kullanıcılar için randevu almayı ve yönetmeyi sağlayan uygulama.
+- **[Randevu Sistemi](https://github.com/mucahtx789/Randevu)** Kullanıcılar için randevu almayı ve yönetmeyi sağlayan kapsamlı sistem.
 
-- **[SellPoint](https://github.com/mucahtx789/SellPoint)**  
-  Alışveriş sitesi: sepet, satın alma işlemleri.
+- **[SellPoint](https://github.com/mucahtx789/SellPoint)** E-ticaret simülasyonu: sepet ve satın alma akışları.
 
-### 🌐 Web Sitesi
-- **[Biography](https://github.com/mucahtx789/Biography)**  
-  HTML, CSS, Javascript, Bootstrap, JQuery, React
+### 🌐 Web & Frontend
+- **[Biography](https://github.com/mucahtx789/Biography)** HTML, CSS, JS, React ve JQuery ile modern portföy tasarımı.
 
-- **🔨 [Movie1](https://github.com/mucahtx789/Movie1) (yapım aşamasında)**  
-  Film sitesi
+- **🔨 [Movie1](https://github.com/mucahtx789/Movie1) (Yapım Aşamasında)** Film listeleme ve detay sayfası.
 
-### 🛠️ Backend ve Giriş Sistemleri
-- **[Cookie Authentication - .NET 6](https://github.com/mucahtx789/ASPNET-MVC-NET6--Cookie-Auth-2)**  
-  ASP.NET MVC üzerinde cookie tabanlı oturum yönetimi örneği.
+### 🛠️ Backend & Sistem Yönetimi
+- **[Cookie Authentication - .NET 6](https://github.com/mucahtx789/ASPNET-MVC-NET6--Cookie-Auth-2)** ASP.NET MVC üzerinde güvenli oturum yönetimi örneği.
 
-- **[Emlak](https://github.com/mucahtx789/Emlak)**  
-  ASP.NET Core ve Entity Framework ile geliştirilen emlak ilan yönetim sistemi.
+- **[Emlak](https://github.com/mucahtx789/Emlak)** Entity Framework ve ASP.NET Core ile ilan yönetim paneli.
 
-- **[Sosyal Medya](https://github.com/mucahtx789/sosyalMedya)**  
-  Kullanıcı, gönderi, yorum ve beğeni özelliklerine sahip bir sosyal medya platformu.
+- **[Sosyal Medya](https://github.com/mucahtx789/sosyalMedya)** Gönderi, yorum ve beğeni sistemine sahip dinamik platform.
 
-- **[Görev Takip](https://github.com/mucahtx789/TaskTracker)**  
-  Kullanıcı görev oluşturma ve takip uygulaması.
+- **[Görev Takip](https://github.com/mucahtx789/TaskTracker)** Görev oluşturma ve iş akışı takip uygulaması.
 
-### 🖼️ Masaüstü Uygulamalar
-- **[ImageEditorApp](https://github.com/mucahtx789/ImageEditorApp)**  
-  Resim düzenleme özelliklerine sahip masaüstü uygulaması.
+### 🖼️ Masaüstü & Görüntü İşleme
+- **[ImageEditorApp](https://github.com/mucahtx789/ImageEditorApp)** C# tabanlı resim düzenleme masaüstü aracı.
 
-### 🐍 Python
-- **[Picture-Upscalle](https://github.com/mucahtx789/Picture-Upscalle)**  
-  Resim boyut ayarlama projesi.
+- **[Picture-Upscalle](https://github.com/mucahtx789/Picture-Upscalle)** Python ile görüntü boyutlandırma ve iyileştirme.
 
-- **[DCTImageCompression](https://github.com/mucahtx789/DCTImageCompression)**  
-  DCT tabanlı JPEG sıkıştırma ve IDCT simülasyonu; görüntü işleme örneği.
+- **[DCTImageCompression](https://github.com/mucahtx789/DCTImageCompression)** Görüntü işleme ve JPEG sıkıştırma simülasyonu.
 
 ### ☕ Java
-- **[xo_oyunu](https://github.com/mucahtx789/xo_oyunu)**  
-  XO oyunu.
-
-- **[Angry Birds](https://github.com/mucahtx789/angry_birds)**  
-  Angry Birds oyununun basit versiyonu.
+- **[xo_oyunu](https://github.com/mucahtx789/xo_oyunu)** & **[Angry Birds](https://github.com/mucahtx789/angry_birds)**
 
 ## 🧰 Kullandığım Teknolojiler
-- ASP.NET Core / MVC
-- Entity Framework Core
-- C#
-- Java
-- SQL Server
-- Vue.js
-- Python
-- HTML / CSS / JS
-- Git & GitHub
+- **Backend:** ASP.NET Core, C#, Java, SQL Server
+- **Frontend:** Vue.js, React, HTML/CSS/JS
+- **Mobile:** Flutter, Dart
+- **Diğer:** Python, Git & GitHub
 
 ## 📫 Bana Ulaşın
-- [LinkedIn Profilim](https://www.linkedin.com/in/mücahit-demir-a68508202/)
-- [GitHub](https://github.com/mucahtx789)
+- [LinkedIn](https://www.linkedin.com/in/mücahit-demir-a68508202/)
 - 📧 E-posta: [mucahtx789@gmail.com](mailto:mucahtx789@gmail.com)
 
-🎯 Yazılım alanında çalışmaya, projelerde yer almaya ve ekiplere katkı sağlamaya hazırım. Profilimi ziyaret ettiğiniz için teşekkür ederim!
+🎯 Yazılım dünyasında değer katmaya ve yeni teknolojilerle üretmeye hazırım.
