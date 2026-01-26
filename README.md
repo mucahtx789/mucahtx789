@@ -9,8 +9,8 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 ### 📱 Mobil Uygulamalar
 - **[mobil_resim_app](https://github.com/mucahtx789/mobil_resim_app)**   
   Flutter kullanılarak geliştirilmiş, Android platformu için tasarlanmış resim odaklı mobil uygulama.
-  - **[Nebula Quest - Game Starter Kit](https://github.com/mucahtx789/flutter_game_starter)**
-  Flutter ile geliştirilen, ölçeklenebilir oyun mimarisi örneği. Dinamik dil motoru, kalıcı veri yönetimi ve Google Play Games altyapısına hazır bir başlangıç projesi.
+- **[Nebula Quest - Game Starter Kit](https://github.com/mucahtx789/flutter_game_starter)**
+   Flutter ile geliştirilen, ölçeklenebilir oyun mimarisi örneği. Dinamik dil motoru, kalıcı veri yönetimi ve Google Play Games altyapısına hazır bir başlangıç projesi.
 
 
 ### 🔧 Fullstack Uygulamalar
