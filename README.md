@@ -7,6 +7,8 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 - **[silentwingstr](https://www.silentwingstr.com)** - Canlıda olan web projem.
 
 ### 📱 Mobil Uygulamalar
+- **[Play store bilgi yarışması](https://play.google.com/store/apps/details?id=com.silentwingsapp.passapalooza)**
+- - **[Play store karar çarkı,zar app](https://play.google.com/store/apps/details?id=com.silentwingsapp.random_maker)**
 - **[Runner mobilg game](https://github.com/mucahtx789/runner_mobil_game)**
    Flutter ile geliştirilmiş, dinamik engellere sahip sonsuz koşu oyunu. Akıcı mekanikler ve çoklu dil destekli bir projedir.
 - **[mobil_resim_app](https://github.com/mucahtx789/mobil_resim_app)**   
