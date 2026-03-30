@@ -4,7 +4,7 @@ Ben bir yazılım geliştirici adayıyım ve özellikle **ASP.NET Core**, **C#**
 
 ## 🚀 Öne Çıkan Projelerim
 
-- **[silentwingstr](https://www.silentwingstr.com)** - Canlıda olan web projem.
+- **[silentwingstr](https://www.silentwingstr.com)** - Drone web sitem
 
 ### 📱 Mobil Uygulamalar
 - **[Play store bilgi yarışması](https://play.google.com/store/apps/details?id=com.silentwingsapp.passapalooza)**
